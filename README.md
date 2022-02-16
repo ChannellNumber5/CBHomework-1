@@ -1,13 +1,15 @@
 # CBHomework-1
 UW Coding Bootcamp Homework Assignment 1
 
-The goal of this assignment was to take an already developed webpage and adjust the code in the html and css files, using Semantic Markup Language, to make the webpage more accessible.
+The goal of this assignment was to take an already developed webpage and adjust the code in the html and css files, using Semantic HTML Markup, to make the webpage more accessible.
 
-The original website that should be displayed can be seen in this image:
+## The original website that should be displayed can be seen in this image:
 ![MockUp Image](01-html-css-git-homework-demo.png)
 
+## Here is the address to my webpage that uses Semantic HMTML Markup:
+[https://channellnumber5.github.io/CBHomework-1/](https://channellnumber5.github.io/CBHomework-1/)
 
-Here are a few webpages that I googled for reference and learning while completing this assignment:
+## Here are a few webpages that I googled for reference and learning while completing this assignment:
 
 -[Learn Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
