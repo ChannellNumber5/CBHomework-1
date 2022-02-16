@@ -13,7 +13,7 @@ The goal of this assignment was to take an already developed webpage and adjust 
 
 -[Learn Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
--I also referenced this [Stackoverflow: Difference between main and body tags](https://stackoverflow.com/questions/56803764/what-is-the-main-tag-in-html5-how-does-it-differ-from-body-tag/56806665)
+-[Stackoverflow: Difference between main and body tags](https://stackoverflow.com/questions/56803764/what-is-the-main-tag-in-html5-how-does-it-differ-from-body-tag/56806665)
 
 -[W3 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
