@@ -23,4 +23,4 @@ The goal of this assignment was to take an already developed webpage and adjust 
 
 -[Accessibility and the Span](https://stackoverflow.com/questions/55029997/how-can-i-indicate-to-a-screen-reader-a-span-element)
 
--[Aside Element Placement](https://stackoverflow.com/questions/38023089/should-i-have-aside-element-ouside-or-inside-of-main-element#:~:text=Following%20the%20newer%20definition%2C%20the,are).)
+-[Aside Element Placement](https://stackoverflow.com/questions/38023089/should-i-have-aside-element-ouside-or-inside-of-main-element#:~:text=Following%20the%20newer%20definition%2C%20the,are)
