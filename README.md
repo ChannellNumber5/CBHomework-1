@@ -6,7 +6,7 @@ The goal of this assignment was to take an already developed webpage and adjust 
 ## The original website that should be displayed can be seen in this image:
 ![MockUp Image](01-html-css-git-homework-demo.png)
 
-## Here is the address to my webpage that uses Semantic HMTML Markup:
+## Here is the address to my webpage that uses Semantic HTML Markup:
 [https://channellnumber5.github.io/CBHomework-1/](https://channellnumber5.github.io/CBHomework-1/)
 
 ## Here are a few webpages that I googled for reference and learning while completing this assignment:
