@@ -1,15 +1,18 @@
-# CBHomework-1
-UW Coding Bootcamp Homework Assignment 1
+# Semantic HTML Markup Challenge
 
-The goal of this assignment was to take an already developed webpage and adjust the code in the html and css files, using Semantic HTML Markup, to make the webpage more accessible.
+The goal of this assignment was to take an already developed webpage and adjust the code in the html and css files, using Semantic HTML Markup, to make the webpage more accessible. If you're not familiar with the phrase, "accessible", as it relates to coding and web development, you're in luck. This project started out in that same boat. 
 
-## The original website that should be displayed can be seen in this image:
+From this project, what I learned about accessibility, as it relates to web development, is that it involves coding a webpage in such a way that everyone is able to navigate the page. If you've heard of screen readers, for those who are blind, those rely on the way that the webpage is coded in HTML. The breakdown of the page, in code, determines what is read out to the user and the descriptions of images or buttons or different sections of the website are what the screen reader software uses to help the user navigate. This is why Semantic HTML Markup is so important - because it identifies the page structure in a way that is accessible for those who cannot just look at the rendered version of the webpage.
+
+## The original webpage can be seen in this image:
 ![MockUp Image](01-html-css-git-homework-demo.png)
 
-## Here is the address to my webpage that uses Semantic HTML Markup:
+## Here is the address to the webpage updated to use Semantic HTML Markup:
 [https://channellnumber5.github.io/CBHomework-1/](https://channellnumber5.github.io/CBHomework-1/)
 
-## Here are a few webpages that I googled for reference and learning while completing this assignment:
+**Hopefully** you should not see a difference in the two. The goal was to produce the same webpage, but one that is more accessible behind the scenes.
+
+## Here are a few webpages that were googled for reference and learning while completing this assignment:
 
 -[Learn Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
