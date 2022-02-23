@@ -5,7 +5,7 @@ The goal of this assignment was to take an already developed webpage and adjust 
 From this project, what I learned about accessibility, as it relates to web development, is that it involves coding a webpage in such a way that everyone is able to navigate the page. If you've heard of screen readers, for those who are blind, those rely on the way that the webpage is coded in HTML. The breakdown of the page, in code, determines what is read out to the user and the descriptions of images or buttons or different sections of the website are what the screen reader software uses to help the user navigate. This is why Semantic HTML Markup is so important - because it identifies the page structure in a way that is accessible for those who cannot just look at the rendered version of the webpage.
 
 ## The original webpage can be seen in this image:
-![MockUp Image](01-html-css-git-homework-demo.png)
+![MockUp Image](./Assets/Images/01-html-css-git-homework-demo.png)
 
 ## Here is the address to the webpage updated to use Semantic HTML Markup:
 [https://channellnumber5.github.io/CBHomework-1/](https://channellnumber5.github.io/CBHomework-1/)
